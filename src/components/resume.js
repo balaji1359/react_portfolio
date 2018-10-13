@@ -12,7 +12,7 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{ textAlign: "left", paddingLeft: "50px" }}>
               <img
-                src="/img/balaji.jpg"
+                src="https://raw.githubusercontent.com/balaji1359/react_portfolio/master/public/balaji.jpg"
                 alt="avatar"
                 style={{ height: "200px" }}
               />
