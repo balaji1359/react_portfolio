@@ -9,7 +9,7 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Balaji Nagisetty</h2>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://raw.githubusercontent.com/balaji1359/react_portfolio/master/public/balaji.jpg"
               alt="avatar"
               style={{ height: "250px" }}
             />
